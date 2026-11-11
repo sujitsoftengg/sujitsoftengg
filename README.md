@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Personal Project
 - 🤔 I’m looking for help with you
 - 💬 Ask me about .....
-- 📫 How to reach me: sujitkumarsinghmail@gmail.com  
+- 📫 How to reach me: sujitkumarsinghmail@gmail.com
+- 📝 Notes : <a href=https://notes-91.gitbook.io/mynotes>My Notes</a>
 - ❤️ My another repo on github <a href=https://github.com/tomarcodinglife>Repo First for Learning Language</a>, <a href=https://github.com/iamsujittomar>Repo Second for Projects</a>
 
 
